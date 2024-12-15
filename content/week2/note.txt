@@ -1,0 +1,3 @@
+Week 2:
+	- Research about splunk before class
+	- Create splunk account: https://www.splunk.com/en_us/download/splunk-cloud.html
